@@ -3,7 +3,7 @@
 
  ## **Hello** 👋, 
 
-![](/assests/augustine-developer-card.png)
+![](/assets/augustine-developer-card.png)
 
   Welcome to Tech Developer Profile and Experience Card. This repository contains facts, quotes, statement and many more about developers journey in the tech space that will inturn help other developers in his/her career as a developer.  
  
